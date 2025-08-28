@@ -1,8 +1,8 @@
-# 📄 PDF GPT - AI Powered PDF Question Answering
+# 📄 DeepDoc - AI Powered PDF Question Answering
 
 > **Developed as part of my 2nd year Computer Engineering studies.**
 
-PDF GPT is an AI-powered application that allows users to upload PDF documents and ask questions directly based on their content. It processes PDFs into searchable chunks, uses semantic search to retrieve relevant information, and generates concise or detailed answers powered by Gemini AI. The project demonstrates full-stack development, AI integration, and natural language processing.
+DeepDoc is an AI-powered application that allows users to upload PDF documents and ask questions directly based on their content. It processes PDFs into searchable chunks, uses semantic search to retrieve relevant information, and generates concise or detailed answers powered by Gemini AI. The project demonstrates full-stack development, AI integration, and natural language processing.
 
 ---
 
