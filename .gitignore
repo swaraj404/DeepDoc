@@ -1,0 +1,114 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Database and logs
+database/
+*.sqlite3
+*.db
+logs/
+*.log
+
+# Backups
+backups/
+*.backup
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Docker
+.docker/
+
+# Redis dump
+dump.rdb
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Streamlit
+.streamlit/
+
+# Model caches
+.cache/
+*.model
+*.pkl
+
+# Data files (add your specific patterns)
+data/
+*.pdf
+*.txt
+*.csv
+
+# Local development
+local_*
+test_*
+
+# API keys and secrets
+*.key
+*.pem
+secrets/
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Uploads
+uploads/
+*.upload
